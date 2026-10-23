@@ -5,5 +5,10 @@ import TheWelcome from '../components/TheWelcome.vue'
 <template>
   <main>
     <TheWelcome />
+    <div>
+        <p>
+            李四改的功能代码
+        </p>
+    </div>
   </main>
 </template>
